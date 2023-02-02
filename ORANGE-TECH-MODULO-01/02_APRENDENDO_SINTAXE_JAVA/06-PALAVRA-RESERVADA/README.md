@@ -7,7 +7,7 @@ A linguagem Java possui 52 palavras reservadas. Todas essas palavras são classi
 &nbsp;
 
 ## ☑ **Controle de pacotes**
----
+
 **import:** importa pacotes ou classes para dentro do código;
 
 **package:** especifica a que pacote, todas as classes de um arquivo pertencem.
@@ -15,7 +15,7 @@ A linguagem Java possui 52 palavras reservadas. Todas essas palavras são classi
 &nbsp;
 
 ## ☑ **Modificadores de acesso**
----
+
 **public:** acesso de qualquer classe;
 
  **private:** acesso apenas dentro da classe;
@@ -25,7 +25,7 @@ A linguagem Java possui 52 palavras reservadas. Todas essas palavras são classi
 &nbsp;
 
 ## ☑ **Primitivos**
----
+
 **boolean:** um valor indicando verdadeiro ou falso;
 
 **byte:** um inteiro de 8 bits (signed);
@@ -47,7 +47,7 @@ A linguagem Java possui 52 palavras reservadas. Todas essas palavras são classi
 &nbsp;
 
 ## ☑ **Modificadores de classes, variáveis ou métodos**
----
+
 **abstract:** classe que não pode ser instanciada ou método que precisa ser implementado, por uma subclasse não abstrata;
 
 **class:** especifica uma classe;
@@ -77,7 +77,7 @@ A linguagem Java possui 52 palavras reservadas. Todas essas palavras são classi
 &nbsp;
 
 ## ☑ **Controle de fluxo dentro de um bloco de código**
----
+
 **break:** sai do bloco de código em que ele está;
 
 **case:** executa um bloco de código dependendo do teste do switch;
@@ -105,7 +105,7 @@ A linguagem Java possui 52 palavras reservadas. Todas essas palavras são classi
 &nbsp;
 
 ## ☑ **Tratamento de erros**
----
+
 **assert:** testa uma expressão condicional, para verificar uma suposição do programador;
 
 **catch:** declara o bloco de código usado para tratar uma exceção;
@@ -121,7 +121,7 @@ A linguagem Java possui 52 palavras reservadas. Todas essas palavras são classi
 &nbsp;
 
 ## ☑ **Variáveis de referência**
----
+
 **super:** refere-se a superclasse imediata;
 
 **this:** refere-se a instância atual do objeto.
@@ -129,7 +129,7 @@ A linguagem Java possui 52 palavras reservadas. Todas essas palavras são classi
 &nbsp;
 
 ## ☑ **Palavras reservadas não utilizadas**
----
+
 **const:** Não utilize para declarar constantes; use public static final;
 
 **goto:** não implementada na linguagem Java, por ser considerada prejudicial.
@@ -137,7 +137,7 @@ A linguagem Java possui 52 palavras reservadas. Todas essas palavras são classi
 &nbsp;
 
 ## ☑ **Literais reservados**
----
+
 De acordo com a Java Language Specification, **null, true** e **false** são tecnicamente chamados de valores literais, e não keywords. Se você tentar criar algum identificador com estes valores, você também terá um erro de compilação.
 
 &nbsp;
@@ -163,7 +163,7 @@ Assim como nas classificações gramaticais da língua portuguesa, existem algum
 
 &nbsp;
 ## 🔎 Referência
----
+
 &nbsp;
 ### Linha de Código:
 http://www.linhadecodigo.com.br/artigo/83/as-52-palavras-reservadas-do-java.aspx

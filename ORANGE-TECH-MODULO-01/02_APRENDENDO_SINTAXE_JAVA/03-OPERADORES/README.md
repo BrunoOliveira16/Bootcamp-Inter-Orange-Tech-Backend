@@ -8,7 +8,7 @@ Geralmente, as primeiras palavras que ouvimos em um curso de programação são:
 
 ## 📂 **Classificação dos operadores**
 ## ☑ **Atribuição**
----
+
 Representado pelo símbolo de igualdade "=".
 
 O operador de atribuição é utilizado para definir o valor inicial ou sobrescrever o valor de uma variável. em Java, definimos um tipo, nome e opcionalmente atribuímos um valor à variável através do operador de atribuição. Exemplos abaixo:
@@ -26,7 +26,7 @@ Date dataNascimento = new Date();
 &nbsp;
 
 ## ☑ **Aritméticos**
----
+
 O operador aritmético, é utilizado para realizar operações matemáticas entre valores numéricos, podendo se tornar ou não uma expressão mais complexa.
 
 Os operadores aritméticos são: + (adição), - (subtração), * (multiplicação) e / (divisão).
@@ -68,7 +68,7 @@ concatenacao = "1"+(1+1+1);
 &nbsp;
 
 ## ☑ **Unários**
----
+
 Esses operadores, são aplicados juntamente com um outro operador aritmético. Eles realizam alguns trabalhos básicos como incrementar, decrementar, inverter valores numéricos e booleanos.
 
 - (+) Operador unário de valor positivo – números são positivos sem esse operador explicitamente;
@@ -109,7 +109,7 @@ System.out.println("Inverteu " + !verdadeiro);
 &nbsp;
 
 ## ☑ **Ternário**
----
+
 O operador de condição ternária é uma forma resumida para definir uma condição e escolher por um dentre dois valores. Você deve pensar numa condição ternária, como se fosse uma condição IF normal, porém, de uma forma em que toda a sua estrutura estará escrita numa única linha.
 
 O operador ternário é representado pelos símbolos "?" e ":" utilizados na seguinte estrutura de sintaxe:
@@ -147,7 +147,7 @@ System.out.println(valor);
 &nbsp;
 
 ## ☑ **Relacionais**
----
+
 Os operadores relacionais, avaliam a relação entre duas variáveis ou expressões. Neste caso, mais precisamente, definem se o operando à esquerda é igual, diferente, menor, menor ou igual, maior, maior ou igual ao da direita, retornando um valor booleano como resultado.
 
 - == Quando desejamos verificar se uma variável é IGUAL A outra.
@@ -254,7 +254,7 @@ public static void main(String[] args) {
 &nbsp;
 
 ## ☑ **Lógicos**
----
+
 Os operadores lógicos, representam o recurso que nos permite criar expressões lógicas maiores, a partir da junção de duas ou mais expressões.
 - && Operador Lógico "E"
 - || Operador Lógico "OU"
