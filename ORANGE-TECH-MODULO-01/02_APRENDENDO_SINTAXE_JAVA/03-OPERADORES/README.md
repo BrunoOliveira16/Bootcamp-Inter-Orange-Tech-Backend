@@ -9,9 +9,9 @@ Geralmente, as primeiras palavras que ouvimos em um curso de programação são:
 ## 📂 **Classificação dos operadores**
 ## ☑ **Atribuição**
 ---
-### Representado pelo símbolo de igualdade "=".
+Representado pelo símbolo de igualdade "=".
 
-### O operador de atribuição é utilizado para definir o valor inicial ou sobrescrever o valor de uma variável. em Java, definimos um tipo, nome e opcionalmente atribuímos um valor à variável através do operador de atribuição. Exemplos abaixo:
+O operador de atribuição é utilizado para definir o valor inicial ou sobrescrever o valor de uma variável. em Java, definimos um tipo, nome e opcionalmente atribuímos um valor à variável através do operador de atribuição. Exemplos abaixo:
 
 ```
 //classe Operadores.java
@@ -27,9 +27,9 @@ Date dataNascimento = new Date();
 
 ## ☑ **Aritméticos**
 ---
-### O operador aritmético, é utilizado para realizar operações matemáticas entre valores numéricos, podendo se tornar ou não uma expressão mais complexa.
+O operador aritmético, é utilizado para realizar operações matemáticas entre valores numéricos, podendo se tornar ou não uma expressão mais complexa.
 
-### Os operadores aritméticos são: + (adição), - (subtração), * (multiplicação) e / (divisão).
+Os operadores aritméticos são: + (adição), - (subtração), * (multiplicação) e / (divisão).
 
 ```
 //classe Operadores.java
@@ -69,15 +69,15 @@ concatenacao = "1"+(1+1+1);
 
 ## ☑ **Unários**
 ---
-### Esses operadores, são aplicados juntamente com um outro operador aritmético. Eles realizam alguns trabalhos básicos como incrementar, decrementar, inverter valores numéricos e booleanos.
+Esses operadores, são aplicados juntamente com um outro operador aritmético. Eles realizam alguns trabalhos básicos como incrementar, decrementar, inverter valores numéricos e booleanos.
 
-- ### (+) Operador unário de valor positivo – números são positivos sem esse operador explicitamente;
-- ### (-) Operador unário de valor negativo – nega um número ou expressão aritmética;
-- ### (++) Operador unário de incremento de valor – incrementa o valor em 1 unidade;
-- ### (--) Operador unário de decremento de valor – decrementa o valor em 1 unidade;
-- ### (!) Operador unário lógico de negação – nega o valor de uma expressão booleana.
+- (+) Operador unário de valor positivo – números são positivos sem esse operador explicitamente;
+- (-) Operador unário de valor negativo – nega um número ou expressão aritmética;
+- (++) Operador unário de incremento de valor – incrementa o valor em 1 unidade;
+- (--) Operador unário de decremento de valor – decrementa o valor em 1 unidade;
+- (!) Operador unário lógico de negação – nega o valor de uma expressão booleana.
 
-### Exemplos abaixo:
+Exemplos abaixo:
 ```
 //classe Operadores.java
 int numero = 5;
@@ -110,16 +110,16 @@ System.out.println("Inverteu " + !verdadeiro);
 
 ## ☑ **Ternário**
 ---
-### O operador de condição ternária é uma forma resumida para definir uma condição e escolher por um dentre dois valores. Você deve pensar numa condição ternária, como se fosse uma condição IF normal, porém, de uma forma em que toda a sua estrutura estará escrita numa única linha.
+O operador de condição ternária é uma forma resumida para definir uma condição e escolher por um dentre dois valores. Você deve pensar numa condição ternária, como se fosse uma condição IF normal, porém, de uma forma em que toda a sua estrutura estará escrita numa única linha.
 
-### O operador ternário é representado pelos símbolos "?" e ":" utilizados na seguinte estrutura de sintaxe:
+O operador ternário é representado pelos símbolos "?" e ":" utilizados na seguinte estrutura de sintaxe:
 
 
 ```
 <Expressão Condicional>`` ? ``<Caso condição seja true>`` : ``<Caso condição seja false>
 ```
 
-### Exemplos abaixo:
+Exemplos abaixo:
 ```
 // classe Operadores.java
 int a, b;
@@ -148,14 +148,14 @@ System.out.println(valor);
 
 ## ☑ **Relacionais**
 ---
-### Os operadores relacionais, avaliam a relação entre duas variáveis ou expressões. Neste caso, mais precisamente, definem se o operando à esquerda é igual, diferente, menor, menor ou igual, maior, maior ou igual ao da direita, retornando um valor booleano como resultado.
+Os operadores relacionais, avaliam a relação entre duas variáveis ou expressões. Neste caso, mais precisamente, definem se o operando à esquerda é igual, diferente, menor, menor ou igual, maior, maior ou igual ao da direita, retornando um valor booleano como resultado.
 
-- ### == Quando desejamos verificar se uma variável é IGUAL A outra.
-- ### != Quando desejamos verificar se uma variável é DIFERENTE da outra.
-- ### ``>`` Quando desejamos verificar se uma variável é MAIOR QUE a outra.
-- ### ``>=`` Quando desejamos verificar se uma variável é MAIOR OU IGUAL a outra.
-- ### ``<`` Quando desejamos verificar se uma variável é MENOR QUE outra.
-- ### ``<=`` Quando desejamos verificar se uma variável é MENOR OU IGUAL a outra.
+- == Quando desejamos verificar se uma variável é IGUAL A outra.
+- != Quando desejamos verificar se uma variável é DIFERENTE da outra.
+- ``>`` Quando desejamos verificar se uma variável é MAIOR QUE a outra.
+- ``>=`` Quando desejamos verificar se uma variável é MAIOR OU IGUAL a outra.
+- ``<`` Quando desejamos verificar se uma variável é MENOR QUE outra.
+- ``<=`` Quando desejamos verificar se uma variável é MENOR OU IGUAL a outra.
 
 &nbsp;
 
@@ -184,7 +184,7 @@ if(numero1 != numero2)
 
 ## ☑ **Comparações avançadas**
 
-### Quando se refere a comparação de conteúdos na linguagem, devemos ter um certo domínio, de como o Java trata o armazenamento destes valores na memória.
+Quando se refere a comparação de conteúdos na linguagem, devemos ter um certo domínio, de como o Java trata o armazenamento destes valores na memória.
 
 &nbsp;
 
@@ -194,7 +194,7 @@ if(numero1 != numero2)
 
 Vamos a alguns exemplos para ilustrar:
 
-### **Valor e referência:** Precisamos entender que em Java tudo é objeto, logo, objetos diferentes podem ter as mesmas características, mas lembrando, **são objetos diferentes.**
+**Valor e referência:** Precisamos entender que em Java tudo é objeto, logo, objetos diferentes podem ter as mesmas características, mas lembrando, **são objetos diferentes.**
 
 &nbsp;
 
@@ -225,7 +225,7 @@ public static void main(String[] args) {
 
 &nbsp;
 
-### **== versus equals:** Existe uma relevância forte, em realizar comparações com **==** e **equals** na qual precisamos ter uma compreensão de quais as regras seguidas pela linguagem **** , exemplo:
+**== versus equals:** Existe uma relevância forte, em realizar comparações com **==** e **equals** na qual precisamos ter uma compreensão de quais as regras seguidas pela linguagem **** , exemplo:
 
 &nbsp;
 
@@ -255,9 +255,9 @@ public static void main(String[] args) {
 
 ## ☑ **Lógicos**
 ---
-### Os operadores lógicos, representam o recurso que nos permite criar expressões lógicas maiores, a partir da junção de duas ou mais expressões.
-- ### && Operador Lógico "E"
-- ### || Operador Lógico "OU"
+Os operadores lógicos, representam o recurso que nos permite criar expressões lógicas maiores, a partir da junção de duas ou mais expressões.
+- && Operador Lógico "E"
+- || Operador Lógico "OU"
 
 &nbsp;
 
@@ -284,9 +284,9 @@ if(condicao1 || condicao2)
 &nbsp;
 
 ## ☑ **Expressões lógicas avançadas**
-### Nós acabamos de aprender que existem os operadores lógicos "&"(E) e "||" (OU), mas por que no exemplo acima, foram ilustradas as condições:
+Nós acabamos de aprender que existem os operadores lógicos "&"(E) e "||" (OU), mas por que no exemplo acima, foram ilustradas as condições:
 
-### if (condicao1 && condicao2) e if(condicao1 || condicao2) ?
+if (condicao1 && condicao2) e if(condicao1 || condicao2) ?
 
 &nbsp;
 
