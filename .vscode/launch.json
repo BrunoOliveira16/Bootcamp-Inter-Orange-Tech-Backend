@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Exercicio02",
+            "request": "launch",
+            "mainClass": "Exercicio02",
+            "projectName": "Bootcamp-inter-orange-tech-backend_c51e6c1f"
+        },
+        {
+            "type": "java",
             "name": "Launch App",
             "request": "launch",
             "mainClass": "App",
