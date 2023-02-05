@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Exercicio_06",
+            "request": "launch",
+            "mainClass": "Exercicio_06",
+            "projectName": "Bootcamp-inter-orange-tech-backend_c51e6c1f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio_05",
+            "request": "launch",
+            "mainClass": "Exercicio_05",
+            "projectName": "Bootcamp-inter-orange-tech-backend_c51e6c1f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio_04",
+            "request": "launch",
+            "mainClass": "Exercicio_04",
+            "projectName": "Bootcamp-inter-orange-tech-backend_c51e6c1f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio_03",
+            "request": "launch",
+            "mainClass": "Exercicio_03",
+            "projectName": "Bootcamp-inter-orange-tech-backend_c51e6c1f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio_02",
+            "request": "launch",
+            "mainClass": "Exercicio_02",
+            "projectName": "Bootcamp-inter-orange-tech-backend_c51e6c1f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio_01",
+            "request": "launch",
+            "mainClass": "Exercicio_01",
+            "projectName": "Bootcamp-inter-orange-tech-backend_c51e6c1f"
+        },
+        {
+            "type": "java",
             "name": "Launch Exercicio04",
             "request": "launch",
             "mainClass": "Exercicio04",
