@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ExercicioArray02",
+            "request": "launch",
+            "mainClass": "ExercicioArray02",
+            "projectName": "Bootcamp-inter-orange-tech-backend_c51e6c1f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExercicioArray01",
+            "request": "launch",
+            "mainClass": "ExercicioArray01",
+            "projectName": "Bootcamp-inter-orange-tech-backend_c51e6c1f"
+        },
+        {
+            "type": "java",
             "name": "Launch Exercicio_06",
             "request": "launch",
             "mainClass": "Exercicio_06",
