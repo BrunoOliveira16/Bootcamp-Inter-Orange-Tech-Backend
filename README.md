@@ -7,6 +7,8 @@ Bootcamp com foco em desenvolvimento Back-End utilizando a linguagem Java e o Sp
 - Desafios de Projeto: 2
 - Desafios de Código: 10
 
+Estou cursando atualmente e os conteúdos estão em desenvolvimento...
+
 <br>
 
 ## 📎 **Sumário**
