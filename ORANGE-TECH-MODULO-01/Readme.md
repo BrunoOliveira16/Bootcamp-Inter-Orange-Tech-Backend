@@ -1,9 +1,9 @@
-# 📌 **BOOTCAMP INTER ORANGE TECH + BACK-END - DIO._(Digital Innovation One)**
+# 📌 **BOOTCAMP INTER ORANGE TECH + BACK-END - DIO**
 ## 📝 **Modulo 01 - Conhecendo a Linguagem de Programação Java**
 
 <br>
 
-## 📚 Descrição das Aulas do módulo:
+## 📎 **Sumário**:
 - Introdução a Plataforma java;
 - Ambiente de Desenvolvimento java;
 - Aprendendo a sintaxe java;
