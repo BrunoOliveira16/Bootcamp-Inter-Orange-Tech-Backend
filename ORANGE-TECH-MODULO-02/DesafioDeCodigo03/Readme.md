@@ -1,4 +1,4 @@
-# 📌 **BOOTCAMP INTER ORANGE TECH + BACK-END - DIO._(Digital Innovation One)**
+# 📌 **BOOTCAMP INTER ORANGE TECH + BACK-END - DIO**
 ## 📝 **Modulo 02 - Dominando algoritimos básicos com desafios de código java**
 
 <br>
@@ -22,6 +22,6 @@ A saída deverá ser quanto tempo ela vai levar para ler esse livro
 
 | <h3 align="center"><b>Entrada</h3> | <h3 align="center"><b>Saída</h3> |
 | --- | --- |
-| <h3 align="center"><b>30</h3> | <h3 align="center"><b>10 dias</h3>  |
-| <h3 align="center"><b>15</h3> | <h3 align="center"><b>5 dias</h3>  |
-| <h3 align="center"><b>90</h3> | <h3 align="center"><b>30 dias</h3>  |
+| <h4 align="center"><b>30</h4> | <h4 align="center"><b>10 dias</h4>  |
+| <h4 align="center"><b>15</h4> | <h4 align="center"><b>5 dias</h4>  |
+| <h4 align="center"><b>90</h4> | <h4 align="center"><b>30 dias</h4>  |

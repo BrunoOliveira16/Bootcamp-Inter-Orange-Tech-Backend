@@ -1,18 +1,27 @@
-## Getting Started
+# 📌 **BOOTCAMP INTER ORANGE TECH + BACK-END - DIO**
+## 📝 **Modulo 02 - Dominando algoritimos básicos com desafios de código java**
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+<br>
 
-## Folder Structure
+## 🏆 **Desafio 04: Lojinha de Doces**
+Uma lojinha de doces tem muitos clientes por ser ao lado de uma escola. Para aumentar as vendas o dono resolveu colocar uma máquina onde os clientes, principalmente as crianças que estão muito acostumadas com a tecnologia, poderiam colocar suas moedas e receber dois doces aleatórios. Cada 1 real irá render 2 doces aleatórios.
 
-The workspace contains two folders by default, where:
+<br>
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## **Entrada**
+A entrada será a quantidade de dinheiro que cada cliente, um por vez, possui.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+<br>
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## **Saída**
+A saída deverá ser a quantidade de doces que cada cliente conseguiu obter. (sem as aspas)
 
-## Dependency Management
+<br>
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## **Exemplo**
+
+| <h3 align="center"><b>Entrada</h3> | <h3 align="center"><b>Saída</h3> |
+| --- | --- |
+| <h4 align="center"><b>10</h4> | <h4 align="center"><b>O cliente obteve 20 doces</h4>  |
+| <h4 align="center"><b>20</h4> | <h4 align="center"><b>O cliente obteve 40 doces</h4>  |
+| <h4 align="center"><b>40</h4> | <h4 align="center"><b>O cliente obteve 80 doces</h4>  |

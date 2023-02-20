@@ -1,4 +1,4 @@
-# 📌 **BOOTCAMP INTER ORANGE TECH + BACK-END - DIO._(Digital Innovation One)**
+# 📌 **BOOTCAMP INTER ORANGE TECH + BACK-END - DIO**
 ## 📝 **Modulo 02 - Dominando algoritimos básicos com desafios de código java**
 
 <br>
@@ -22,6 +22,6 @@ A saída deve ser o valor que o sobrinho terá ao final dos meses. (sem as aspas
 
 | <h3 align="center"><b>Entrada</h3> | <h3 align="center"><b>Saída</h3> |
 | --- | --- |
-| <h3 align="center"><b>2</h3> | <h3 align="center"><b>"Voce tera 100 reais"</h3>  |
-| <h3 align="center"><b>4</h3> | <h3 align="center"><b>"Voce tera 200 reais"</h3>  |
-| <h3 align="center"><b>10</h3> | <h3 align="center"><b>"Voce tera 500 reais"</h3>  |
+| <h4 align="center"><b>2</h4> | <h4 align="center"><b>"Voce tera 100 reais"</h4>  |
+| <h4 align="center"><b>4</h4> | <h4 align="center"><b>"Voce tera 200 reais"</h4>  |
+| <h4 align="center"><b>10</h4> | <h4 align="center"><b>"Voce tera 500 reais"</h4>  |

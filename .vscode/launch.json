@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch IndustriaDaMulta",
+            "request": "launch",
+            "mainClass": "IndustriaDaMulta",
+            "projectName": "Bootcamp-inter-orange-tech-backend_c51e6c1f"
+        },
+        {
+            "type": "java",
+            "name": "Launch LojinhaDeDoces",
+            "request": "launch",
+            "mainClass": "LojinhaDeDoces",
+            "projectName": "Bootcamp-inter-orange-tech-backend_c51e6c1f"
+        },
+        {
+            "type": "java",
             "name": "Launch LeituraDaGertrudes",
             "request": "launch",
             "mainClass": "LeituraDaGertrudes",

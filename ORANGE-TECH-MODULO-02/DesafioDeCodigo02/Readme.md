@@ -1,4 +1,4 @@
-# 📌 **BOOTCAMP INTER ORANGE TECH + BACK-END - DIO._(Digital Innovation One)**
+# 📌 **BOOTCAMP INTER ORANGE TECH + BACK-END - DIO**
 ## 📝 **Modulo 02 - Dominando algoritimos básicos com desafios de código java**
 
 <br>
@@ -24,6 +24,6 @@ A saída serão as barras sem espaços entre elas.
 
 | <h3 align="center"><b>Entrada</h3> | <h3 align="center"><b>Saída</h3> |
 | --- | --- |
-| <h3 align="center"><b>1</h3> | <h3 align="center"><b>/</h3>  |
-| <h3 align="center"><b>3</h3> | <h3 align="center"><b>///</h3>  |
-| <h3 align="center"><b>7</h3> | <h3 align="center"><b>///////</h3>  |
+| <h4 align="center"><b>1</h4> | <h4 align="center"><b>/</h4>  |
+| <h4 align="center"><b>3</h4> | <h4 align="center"><b>///</h4>  |
+| <h4 align="center"><b>7</h4> | <h4 align="center"><b>///////</h4>  |
