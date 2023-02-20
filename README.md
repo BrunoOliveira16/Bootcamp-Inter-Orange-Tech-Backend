@@ -1,7 +1,5 @@
 # 📌 **BOOTCAMP INTER ORANGE TECH + BACK-END - DIO**
-<img src="./assets/logo.png"  width="70" alt="Icone do Bootcamp Inter Orange Tech">
-<img src="./assets/java.svg" width="80" alt="Icone do Java">
-<img src="./assets/spring.svg" width="70" alt="Icone do Spring Framework">
+<img src="./assets/logo.png"  width="70" alt="Icone do Bootcamp Inter Orange Tech"><img src="./assets/java.svg" width="80" alt="Icone do Java"><img src="./assets/spring.svg" width="70" alt="Icone do Spring Framework">
 
 Bootcamp com foco em desenvolvimento Back-End utilizando a linguagem Java e o Spring Framework.
 
