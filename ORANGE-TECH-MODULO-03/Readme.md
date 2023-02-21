@@ -4,7 +4,7 @@
 <br>
 
 ## 📎 **Sumário:**
-- Programação Orientada a Objeto
+- Programação Orientada a Objetos
 - Trabalhando com Collections Java
 - Debugging Java
 - Tratamento de Exceções em Java

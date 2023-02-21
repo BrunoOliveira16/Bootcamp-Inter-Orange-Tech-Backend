@@ -1,5 +1,4 @@
-# 📌 **Módulo Lógica Condicional e Controle de Fluxos em Java**
-
+# 📌 **Lógica Condicional e Controle de Fluxos em Java**
 ## 🎯 Objetivo
 Possibilitar a compreenssão de operadores lógicos e relacionais, além de estruturas de controle de fluxo e blocos.
 
