@@ -24,15 +24,15 @@ Bootcamp com foco em desenvolvimento Back-End utilizando a linguagem Java e o Sp
 
 <table border=1>
     <tr>
-        <th colspan="3" align="center"><h3 align="center"><b>INTER ORANGE TECH BACKEND JAVA</b></h3></th>
+        <th colspan="3" style="text-align:center"><b>INTER ORANGE TECH BACKEND JAVA</b></th>
     </tr>
     <tr>
-        <th colspan="3"><h3 align="center">Desafios de Código Básico</h3></th>
+        <th colspan="3" style="text-align:center">Desafios de Código Básico</th>
     </tr>
     <tr>
-        <th><p align="center">Desafio</p></th>
-        <th><p align="center">Solução</p></th>
-        <th><p align="center">Status</p></th>
+        <th style="text-align:center">Desafio</th>
+        <th style="text-align:center">Solução</th>
+        <th style="text-align:center">Status</th>
     </tr>
     <tr>
         <td align="center">Mesada do Sobrinho</td>
